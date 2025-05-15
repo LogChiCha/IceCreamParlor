@@ -4,9 +4,7 @@ public class Project2Runner
 {
     
     /*
-     * Name: Logan Toy
-     * Student ID: 501 289 053
-     
+     * Name: Logan Toy   
 
      ******** Project Description ********
      * 
